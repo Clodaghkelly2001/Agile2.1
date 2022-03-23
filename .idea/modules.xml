@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Agile2.1.iml" filepath="$PROJECT_DIR$/.idea/Agile2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week10/LabExam Practice/Week10/LabExam Practice.iml" filepath="$PROJECT_DIR$/Week10/LabExam Practice/Week10/LabExam Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrintName/PrintName.iml" filepath="$PROJECT_DIR$/PrintName/PrintName.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestDemo/TestDemo.iml" filepath="$PROJECT_DIR$/TestDemo/TestDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
